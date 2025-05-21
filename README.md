@@ -4,7 +4,6 @@
 **redjungi09/redjungi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,11 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=redjungi09&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/redjungi09"
-  width="600"
-  height="300"
-/>
-</a>
